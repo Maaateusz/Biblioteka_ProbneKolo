@@ -1,0 +1,12 @@
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1\probneKolo1\bin\Debug\probneKolo1.exe.config
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1\probneKolo1\bin\Debug\probneKolo1.exe
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1\probneKolo1\bin\Debug\probneKolo1.pdb
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1\probneKolo1\obj\Debug\probneKolo1.exe
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1\probneKolo1\obj\Debug\probneKolo1.pdb
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1\probneKolo1\obj\Debug\probneKolo1.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1_Biblioteka\probneKolo1\bin\Debug\probneKolo1.exe.config
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1_Biblioteka\probneKolo1\obj\Debug\probneKolo1.exe
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1_Biblioteka\probneKolo1\obj\Debug\probneKolo1.pdb
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1_Biblioteka\probneKolo1\bin\Debug\probneKolo1.exe
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1_Biblioteka\probneKolo1\bin\Debug\probneKolo1.pdb
+C:\Users\Mateusz\Downloads\III semestr\Programowanie Obiektowe\probneKolo1_Biblioteka\probneKolo1\obj\Debug\probneKolo1.csprojResolveAssemblyReference.cache
